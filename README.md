@@ -1,3 +1,5 @@
 # LLM Cube
 
-This is a project to use the M5Stack Core2 to make requests to the OpenAI Whisper and GPT-4 API's
+![Description](llm_cube.gif)
+
+This is a project to use the M5Stack Core2 (Expressif) as a platform to trascribe and respond to user requests with the OpenAI API.
